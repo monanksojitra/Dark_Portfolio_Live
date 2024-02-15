@@ -1,4 +1,5 @@
-
+import Footer from "../layout/Footer";
+import Navbar from "../layout/Navbar";
 import AboutProject from "./AboutProject";
 import ClientTestimonials from "./ClientTestimonials";
 import Hero from "./Hero";
@@ -8,14 +9,18 @@ import Skilles from "./Skilles";
 
 function Home() {
   return (
-    <div className="w-full">
-      <Hero />
-      <Skilles />
-      <ProssessToDesign />
-      <Projects />
-      <ClientTestimonials />
-      <AboutProject />
-    </div>
+    <>
+      <Navbar />
+      <div className="w-full">
+        <Hero />
+        <Skilles />
+        <ProssessToDesign />
+        <Projects />
+        <ClientTestimonials />
+        <AboutProject />
+      </div>
+      <Footer />
+    </>
   );
 }
 
