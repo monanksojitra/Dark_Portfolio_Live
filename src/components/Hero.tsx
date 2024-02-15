@@ -1,4 +1,4 @@
-import React from "react";
+
 import gridechain from "../../public/assets/gridechainphone.png";
 import gridechaindesktop from "../../public/assets/gridechain.png";
 const Hero = () => {

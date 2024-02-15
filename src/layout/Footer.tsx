@@ -1,4 +1,4 @@
-import React from "react";
+
 import twitter from "../../public/assets/twitter.svg";
 import indta from "../../public/assets/insta.svg";
 import fb from "../../public/assets/fb.svg";

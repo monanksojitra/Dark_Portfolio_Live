@@ -1,4 +1,4 @@
-import React from "react";
+
 import twostar from "../../public/assets/twostar.svg";
 import roundcut from "../../public/assets/cutround.svg";
 const ProssessToDesign = () => {

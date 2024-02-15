@@ -1,5 +1,4 @@
-import React from "react";
-import { Link } from "react-router-dom";
+
 import AboutProject from "./AboutProject";
 import ClientTestimonials from "./ClientTestimonials";
 import Hero from "./Hero";

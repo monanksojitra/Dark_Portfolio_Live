@@ -1,4 +1,4 @@
-import React from "react";
+
 import twostar from "../../public/assets/twostar.svg";
 import twocoma from "../../public/assets/twocoma.svg";
 

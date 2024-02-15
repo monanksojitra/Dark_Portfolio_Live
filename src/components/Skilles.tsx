@@ -1,4 +1,3 @@
-import React from "react";
 import start from "../../public/assets/start.svg";
 
 const Skilles = () => {

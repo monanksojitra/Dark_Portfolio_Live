@@ -1,4 +1,4 @@
-import React from "react";
+
 import twostar from "../../public/assets/twostar.svg";
 const Projects = () => {
   const projectData = [
